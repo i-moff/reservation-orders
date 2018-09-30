@@ -1,0 +1,11 @@
+# WebStorm config folder
+.idea
+
+# Dependency directories
+node_modules
+
+#config
+.env
+
+# Api documentation directory
+apidoc
